@@ -8,7 +8,6 @@
       <title>iOS Version 2.0.1</title>
       <sparkle:version>2.0.1</sparkle:version>
       <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
-      <sparkle:minimumAppVersionSupported>2.0.0</sparkle:minimumAppVersionSupported>
       <platform>ios</platform>
       <description>Mandatory iOS Update:
         - Feature 1 for iOS
@@ -16,6 +15,13 @@
       </description>
       <pubDate>Tue, 12 Oct 2023 10:00:00 +0000</pubDate>
     </item>
+
+    <item>
+    <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+    <link>https://myproductwebsite.com</link>
+    <sparkle:version>2.0</sparkle:version>
+    <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+     </item>
 
     <!-- Android Update Item -->
     <item>
