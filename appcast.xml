@@ -9,9 +9,9 @@
       <sparkle:version>2.0.0</sparkle:version>
       <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
       <platform>ios</platform>
-      <description>What's New in iOS Version 2.0.0:
+      <description>Mandatory iOS Update:
         - Feature 1 for iOS
-        - Feature 2 for iOS
+        - Bug fixes for iOS
       </description>
       <pubDate>Tue, 12 Oct 2023 10:00:00 +0000</pubDate>
     </item>
@@ -22,9 +22,9 @@
       <sparkle:version>2.0.0</sparkle:version>
       <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
       <platform>android</platform>
-      <description>What's New in Android Version 2.0.0:
+      <description>Mandatory Android Update:
         - Feature 1 for Android
-        - Feature 2 for Android
+        - Bug fixes for Android
       </description>
       <pubDate>Tue, 12 Oct 2023 10:00:00 +0000</pubDate>
     </item>
