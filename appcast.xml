@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>Debt Now App - Appcast</title>
-        <item>
-            <title>Version 1.15.0</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
-        </item>
-    </channel>
+<rss version="2.0">
+  <channel>
+    <title>App Updates</title>
+
+    <!-- iOS Update Item -->
+    <item>
+      <title>iOS Version 2.0.0</title>
+      <sparkle:version>2.0.0</sparkle:version>
+      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <platform>ios</platform>
+      <description>What's New in iOS Version 2.0.0:
+        - Feature 1 for iOS
+        - Feature 2 for iOS
+      </description>
+      <pubDate>Tue, 12 Oct 2023 10:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Android Update Item -->
+    <item>
+      <title>Android Version 2.0.0</title>
+      <sparkle:version>2.0.0</sparkle:version>
+      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <platform>android</platform>
+      <description>What's New in Android Version 2.0.0:
+        - Feature 1 for Android
+        - Feature 2 for Android
+      </description>
+      <pubDate>Tue, 12 Oct 2023 10:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
 </rss>
