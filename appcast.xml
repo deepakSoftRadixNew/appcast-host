@@ -5,9 +5,9 @@
 
     <!-- iOS Update Item -->
     <item>
-      <title>iOS Version 2.0.0</title>
-      <sparkle:version>2.0.0</sparkle:version>
-      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <title>iOS Version 2.0.1</title>
+      <sparkle:version>2.0.1</sparkle:version>
+      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
       <platform>ios</platform>
       <description>Mandatory iOS Update:
         - Feature 1 for iOS
@@ -18,9 +18,9 @@
 
     <!-- Android Update Item -->
     <item>
-      <title>Android Version 2.0.0</title>
-      <sparkle:version>2.0.0</sparkle:version>
-      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <title>Android Version 2.0.1</title>
+      <sparkle:version>2.0.1</sparkle:version>
+      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
       <platform>android</platform>
       <description>Mandatory Android Update:
         - Feature 1 for Android
