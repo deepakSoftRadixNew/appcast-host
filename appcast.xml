@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>App Updates</title>
 
@@ -7,7 +7,8 @@
     <item>
       <title>iOS Version 2.0.1</title>
       <sparkle:version>2.0.1</sparkle:version>
-      <sparkle:minAppVersion>2.0.0</sparkle:minAppVersion>
+      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumAppVersionSupported>2.0.0</sparkle:minimumAppVersionSupported>
       <platform>ios</platform>
       <description>Mandatory iOS Update:
         - Feature 1 for iOS
@@ -21,6 +22,7 @@
       <title>Android Version 2.0.1</title>
       <sparkle:version>2.0.1</sparkle:version>
       <sparkle:minAppVersion>2.0.0</sparkle:minAppVersion>
+      <sparkle:minimumAppVersionSupported>2.0.0</sparkle:minimumAppVersionSupported>
       <platform>android</platform>
       <description>Mandatory Android Update:
         - Feature 1 for Android
