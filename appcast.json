@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "version": "2.0.0",
+            "title": "Version 2.0.0",
+            "description": "What's New: \n - Feature 1 \n - Feature 2",
+            "pub_date": "Tue, 12 Oct 2023 10:00:00 +0000"
+        }
+    ]
+}
